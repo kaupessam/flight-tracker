@@ -1,0 +1,16 @@
+export const airports = {
+  JFK: 'New York (JFK)',
+  LHR: 'London (LHR)',
+  DXB: 'Dubai (DXB)',
+  SIN: 'Singapore (SIN)',
+  DEL: 'Delhi (DEL)',
+  FRA: 'Frankfurt (FRA)',
+  LAX: 'Los Angeles (LAX)',
+  HKG: 'Hong Kong (HKG)',
+  BOM: 'Mumbai (BOM)',
+  BKK: 'Thailand (BKK)',
+  IXE: 'Mangalore (IXE)',
+  BLR: 'Bengaluru (BLR)',
+  HYD: 'Hyderabad (HYD)',
+  PNQ: 'Pune (PNQ)',
+} as const;
